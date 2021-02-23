@@ -10,26 +10,26 @@ Este proyecto consta de construir un shader con las siguientes caracteristicas:
  * Banded
 
 ## Contenido
-** Normal Map
+* Normal Map
 Es la direccional del falloff, es la manera en la que influye en el fAlloff
    * Falloff: la caída de la sombra pormedio dela normal
 
-** Normal Strength
+* Normal Strength
 Es la manera en que se verá la intensidad en la normal.
 
-** Rim Light
+* Rim Light
 Es lo que hace que el contorno de un material sea brillante
 
-** Phong Color
+* Phong Color
 Resalta las luces del material 
 
-** Modelo Lambert 
+* Modelo Lambert 
 Es un modelo de ilumació básico, el HolaMundo en los shaders
 
-** Ramp Texture 
+* Ramp Texture 
 Es donde se agrega una imagen en escala de grises para así crear una sombra
 
-** Banded
+* Banded
 Para poder controlar la iluminación
 
 ## Código
