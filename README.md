@@ -11,10 +11,11 @@ Este proyecto consta de construir un shader con las siguientes caracteristicas:
 
 ## Contenido
 
-´Shader "Custom/Project"
+´´´´
+Shader "Custom/Project"
 {
     Properties
-    { 
+    {
         //Color principal
         _Albedo("Albedo Color",Color)=(1,1,1,1)
         //Phong
@@ -112,4 +113,4 @@ Este proyecto consta de construir un shader con las siguientes caracteristicas:
         
     }
 }
-´
+´´´´
