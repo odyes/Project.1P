@@ -1,6 +1,6 @@
 ﻿# Project.1P
 
-##Introducción
+## Introducción
 Este proyecto consta de construir un shader con las siguientes caracteristicas:
  * Normal Map y Normal Strength
  * Rim Light
@@ -9,8 +9,9 @@ Este proyecto consta de construir un shader con las siguientes caracteristicas:
  * Ramp Texture
  * Banded
 
-# Contenido
-Shader "Custom/Project"
+## Contenido
+
+´Shader "Custom/Project"
 {
     Properties
     { 
@@ -111,4 +112,4 @@ Shader "Custom/Project"
         
     }
 }
-
+´
