@@ -11,7 +11,7 @@ Este proyecto consta de construir un shader con las siguientes caracteristicas:
 
 ## Contenido
 
-´´´´
+```
 Shader "Custom/Project"
 {
     Properties
@@ -113,4 +113,4 @@ Shader "Custom/Project"
         
     }
 }
-´´´´
+```
